@@ -36,9 +36,6 @@ Using data such as soil type, pH, temperature, and the selected crop, AgriTech p
 ### 3. Crop Disease Detection  
 With just an uploaded image of your crop, AgriTech’s AI-powered image recognition system identifies diseases and evaluates plant health. This allows for quick interventions to protect your crops and prevent widespread damage.
 
-![Disease Detection](https://user-images.githubusercontent.com/83681204/159994252-6e44cd8e-4d20-4dcb-9e22-c0e35756fe1c.png) 
-
-![Crop Recommendation](https://user-images.githubusercontent.com/83681204/159994452-d6a14dc9-d94f-4beb-8778-6ecdfe48f453.png)
 
 ---
 
@@ -46,27 +43,6 @@ With just an uploaded image of your crop, AgriTech’s AI-powered image recognit
 
 ```
 
-### Run Locally with Python (v3.8)
-
-1. **Create and activate a virtual environment**:
-   ```bash
-   python -m venv myenv
-   source myenv/bin/activate  # On Windows: myenv\Scripts\activate
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Start the server**:
-   ```bash
-   python app.py
-   ```
-
-Visit the app at [http://localhost:5000](http://localhost:5000).
-
----
 
 ### Run with Docker
 
@@ -103,12 +79,4 @@ The datasets used for this project are sourced from Kaggle:
 
 ---
 
-## Contact
 
-For questions or support, please contact me: [kilonzoshadrack97@gmail.com](mailto:kilonzoshadrack97@gmail.com)
-
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information."# agritech" 
